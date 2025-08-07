@@ -93,10 +93,4 @@ sentence-transformers==2.2.2
 
 ---
 
-## 🤝 Contributing  
-Pull requests are welcome! Feel free to **fork** the project, improve it, and submit a PR.  
 
----
-
-## 📝 License  
-This project is **MIT Licensed** – Free to use and modify!  
